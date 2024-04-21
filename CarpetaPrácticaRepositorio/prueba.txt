@@ -1,0 +1,1 @@
+Estoy prácticando como crear el repositorio en github, luego clonarlo a mi repositorio local, crear una carpeta, crear un archivo dentro de esa carpeta y luego subirlo a la nube.
